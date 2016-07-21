@@ -1,0 +1,19 @@
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+logs
+*.log
+
+packages
+
+node_modules
+
+*~
+.DS_Store
+build
+
+pub
